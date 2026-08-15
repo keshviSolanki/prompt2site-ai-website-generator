@@ -26,7 +26,7 @@ app.use(cookieParser());
 
 app.use(
   cors({
-    origin: "http://localhost:5173",
+    origin: "https://prompt2site-ai-website-generator-1.onrender.com",
     credentials: true,
   }),
 );
