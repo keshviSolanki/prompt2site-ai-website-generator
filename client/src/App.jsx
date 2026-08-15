@@ -6,7 +6,7 @@ import useGetCurrentUser from "./hooks/useGetCurrentUser";
 import { useSelector } from "react-redux";
 import Dashboard from "./pages/Dashboard";
 import Generate from "./pages/generate";
-export const serverUrl = "http://localhost:8000";
+export const serverUrl = "https://prompt2site-ai-website-generator.onrender.com";
 import { Navigate } from "react-router-dom";
 import WebsiteEditor from "./pages/WebsiteEditor";
 import LiveSite from "./pages/LiveSite";
