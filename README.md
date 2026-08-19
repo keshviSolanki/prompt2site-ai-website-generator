@@ -6,17 +6,7 @@
 
 ### 🌐 Live Website
 
-**[Visit Prompt2Site → ADD YOUR LIVE WEBSITE LINK HERE]**
-
-### ⚙️ Backend API
-
-**[Backend API → ADD YOUR BACKEND LIVE LINK HERE]**
-
-### 🎥 Demo Video
-
-**[Watch Demo → ADD YOUR DEMO VIDEO LINK HERE]**
-
----
+https://prompt2site-ai-website-generator-1.onrender.com/
 
 ## 📖 About The Project
 
@@ -361,7 +351,7 @@ Through Prompt2Site, I gained practical experience in:
 
 Full Stack Developer focused on building modern web applications and AI-powered products.
 
-**GitHub:** https://prompt2site-ai-website-generator-1.onrender.com/
+**GitHub:** https://github.com/keshviSolanki/prompt2site-ai-website-generator 
 
 ---
 
